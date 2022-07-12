@@ -1,0 +1,27 @@
+{
+  "name": "Nodejs-oAuth2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skarthik05/Nodejs-oAuth2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skarthik05/Nodejs-oAuth2/issues"
+  },
+  "homepage": "https://github.com/skarthik05/Nodejs-oAuth2#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "googleapis": "^105.0.0"
+  }
+}
